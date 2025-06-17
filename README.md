@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fridge-daemon
-- 👀 I’m interested in ... Web Development, JS, ASP.NET, DevOps
-- 🌱 I’m currently learning ... ASP.NET
-- 💞️ I’m looking to collaborate on ... DevOps, Cloud pipelines
+- 👀 I’m interested in ... Microsoft PowerApps, Python, SQL, Quant Algos
+- 🌱 I’m currently learning ... PowerApps, Python quant libraries
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... - fridge-daemon@feistyneirbo.com - https://twitter.com/fridge_daemon
 
 
